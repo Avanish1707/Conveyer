@@ -8,3 +8,4 @@ weights/
 *.mp4
 *.avi
 *.pt
+!sack.pt
