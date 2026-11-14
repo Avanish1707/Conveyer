@@ -9,3 +9,4 @@ weights/
 *.avi
 *.pt
 !sack.pt
+!yolo11n-pose.pt
